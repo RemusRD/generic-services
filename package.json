@@ -1,0 +1,25 @@
+{
+  "name": "generic-services",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "sls": "sls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RemusRD/generic-services.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RemusRD/generic-services/issues"
+  },
+  "homepage": "https://github.com/RemusRD/generic-services#readme",
+  "devDependencies": {
+    "serverless": "^2.17.0",
+    "serverless-appsync-plugin": "^1.6.0"
+  }
+}
